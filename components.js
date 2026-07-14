@@ -12,7 +12,10 @@
 
     <header>
       <div class="container navbar">
-        <a class="logo" href="index.html"><img width="120" height="80" src="src/img/logo.webp" alt="SN Clear logo"></a>
+    
+       <a class="logo" href="index.html"><img width="120" height="80"  src="./src/img/logo.webp"></a>
+
+
         <nav>
           <ul>
             <li><a data-nav href="index.html">Home</a></li>
